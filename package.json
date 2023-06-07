@@ -1,0 +1,12 @@
+{
+  "name": "popup_menu",
+  "version": "1",
+  "scripts": {
+    "test25": "electron test.js",
+    "test24": "electron test.js"
+  },
+  "devDependencies": {
+    "electron": "25.0.1",
+    "gui": "0.13.11"
+  }
+}
